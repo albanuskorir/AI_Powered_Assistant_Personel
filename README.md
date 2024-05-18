@@ -3,15 +3,24 @@ AI-Powered-Personal-Assistant
 Importing Libraries: The required libraries are imported, including speech_recognition, pyttsx3, wikipedia, webbrowser, datetime, and os.
 import speech_recognition as sr
 import pyttsx3
+
 import wikipedia
+
 import webbrowser
+
 import datetime
+
 import os
+
 And this is how to install the ;libraries
 pip install speech_recognition as sr
+
 pip install wikipedia
+
 pip install webbrowser
+
 pip install datetime
+
 pip install os
 
 Text-to-Speech Initialization: The pyttsx3 library is initialized to create an instance of the text-to-speech engine.
